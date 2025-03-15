@@ -9,6 +9,7 @@ sessions/
 # Ignorer les fichiers de base de données locales
 *.sql
 *.sqlite
+.htacess
 
 # Ignorer les fichiers liés aux IDE et Node.js
 .vscode/
