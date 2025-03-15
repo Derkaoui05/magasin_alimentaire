@@ -10,7 +10,7 @@ Ce projet est une **application web en PHP natif** permettant de gérer un magas
 
 ## 📂 Structure du Projet  
 ```
-magasin/
+magasin_alimentaire/
 │── controllers/       # Contrôleurs pour gérer les actions
 │── models/           # Modèles de données et connexion à la BD
 │   │── .env         # Configuration des variables d'environnement
