@@ -1,0 +1,18 @@
+# Ignorer les fichiers sensibles
+models/.env
+
+# Ignorer les fichiers de cache et temporaires
+*.log
+cache/
+sessions/
+
+# Ignorer les fichiers de base de données locales
+*.sql
+*.sqlite
+
+# Ignorer les fichiers liés aux IDE et Node.js
+.vscode/
+.idea/
+node_modules/
+.DS_Store
+Thumbs.db
